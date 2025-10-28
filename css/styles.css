@@ -139,6 +139,10 @@ body {
     text-transform: capitalize;
 }
 
+.team-li {
+    background-color: #FFFFFF;
+}
+
 .team-img {
     background-color: #FFFFFF;
 }
